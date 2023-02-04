@@ -41,7 +41,7 @@ Tips
 - DO NOT ALTER THE PROVIDED TESTS
 
 ----------------- My observations:
-If you want to view the SQL database use View -> Tool Window -> App Inspection (Database Inspector)
+If you want to view the SQLite database use View -> Tool Window -> App Inspection (Database Inspector)
 
 The SQLite database name is forageable_database, you can export it by right clicking and -> Export As File...
 
